@@ -38,9 +38,6 @@ Instead of putting sensitive information publicly on-chain, Proof-SEAL hashes co
 ### [deployment contract]
 ![Deploy](./screenshots/contract-deploy.png)
 
-### Compile Output
-![Compile Output](./screenshots/compile-output.png)
-
 ---
 
 ## Live Demo
