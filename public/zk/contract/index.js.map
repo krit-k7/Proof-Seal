@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "file": "index.js",
+  "sourceRoot": "../../../",
+  "sources": ["contracts/shadowstamp/proof.compact"],
+  "names": [],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EAaA;;;;;;;;;;MAEA,AAAA,WAKC;;;;;cAL0B,MAAe;cAAE,YAAqB;cAAE,WAAmB;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;yCAA3D,MAAe,+BAAE,YAAqB,+BAAE,WAAmB;;;;;;;;;6CAA3D,MAAe;6CAAE,YAAqB;6CAAE,WAAmB;;;OAKrF;MAED,AAAA,WAEC;;;;;cAF0B,MAAe;;;;;;;;;;;;;;;;;;yCAAf,MAAe;;;;;;;wEAAf,MAAe;;;OAEzC;;;;;;;;;;GAXe;EAAhB;;;;;;;;;;;;;;;;;;;;;;;;;;;;;IAJA;;;;;;;;;;yEAA0D;IAC1D;;;;;;;;;;yEAAwD;IACxD;;;;;;;;;yEAA6B;;;;;;;GAEb;EAEhB,AAAA,cAKC,4BAL0B,MAAe,EAAE,YAAqB,EAAE,WAAmB;qDAC5E;;;;;;;;;;;4KAAiC,MAAI;;;;0HAArB;;IACxB;;;;;;;;;;2HAAiC,MAAI;;;2HAAY,YAAU;;;wEAA3C;IAChB;;;;;;;;;;2HAAgC,MAAI;;;2HAAY,WAAS;;;wEAA1C;UACf,KAAK;IAAL;;;;;;;;;;6FAAA,KAAK;;;;wEAAA;;GACN;EAED,AAAA,cAEC,4BAF0B,MAAe;mCACjC;;;;;;;;;;;0JAAiC,MAAI;;;;wGAArB;GACxB;;;;;;;;;;;;;;;;IAfD;;;;;uCAAA;;;;;;;;;;;;;;;;4GAA0D;;;;;;uCAA1D;;;;;;;;;;;;4GAA0D;;;;;;;;;;;;;;uCAA1D;;;;;;;;;;;;;;;4GAA0D;;;;;;;;;;;;;;uCAA1D;;;;;;;;;;;;;;;;;4GAA0D;;;;;;;;;KAAA;IAC1D;;;;;uCAAA;;;;;;;;;;;;;;;;4GAAwD;;;;;;uCAAxD;;;;;;;;;;;;4GAAwD;;;;;;;;;;;;;;uCAAxD;;;;;;;;;;;;;;;4GAAwD;;;;;;;;;;;;;;uCAAxD;;;;;;;;;;;;;;;;;4GAAwD;;;;;;;;;KAAA;IACxD;qCAAA;;;;;;;;;;;0GAA6B;KAAA;;;;;;;;;;"
+}
