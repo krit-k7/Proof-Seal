@@ -1,10 +1,10 @@
-# ShadowStamp — Private Proof of Ownership
+# Proof-SEAL — Private Proof of Ownership
 
 **Prove ownership. Reveal nothing.**
 
-ShadowStamp is a privacy-first decentralized application built on the **Midnight Network** that lets users prove the ownership and existence of sensitive digital content — ideas, business plans, research, documents, code, artwork, AI prompts, and other intellectual property — **without ever revealing the original content**.
+Proof-SEAL is a privacy-first decentralized application built on the **Midnight Network** that lets users prove the ownership and existence of sensitive digital content — ideas, business plans, research, documents, code, artwork, AI prompts, and other intellectual property — **without ever revealing the original content**.
 
-Instead of putting sensitive information publicly on-chain, ShadowStamp hashes content locally in the browser and records only a cryptographic commitment on Midnight. The original content never leaves the user's device.
+Instead of putting sensitive information publicly on-chain, Proof-SEAL hashes content locally in the browser and records only a cryptographic commitment on Midnight. The original content never leaves the user's device.
 
 ---
 
