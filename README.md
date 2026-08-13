@@ -19,10 +19,12 @@ Instead of putting sensitive information publicly on-chain, Proof-SEAL hashes co
 ## Screenshots
 
 ### Landing Page
-![Landing Page](./screenshots/landing-page.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dd0c9fdf-c551-4e5f-bfaa-c2bb321456c4" />
+
 
 ### Dashboard
-![Dashboard](./screenshots/dashboard.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/626be53c-24ef-4a36-a352-c7d7cc889fd5" />
+
 
 ### Creating a Proof
 ![Creating a Proof](./screenshots/created.png)
@@ -42,7 +44,7 @@ Instead of putting sensitive information publicly on-chain, Proof-SEAL hashes co
 ---
 
 ## Live Demo
-- **App:** https://shadowstamp-ten.vercel.app/
+- **App:** https://proof-seal.vercel.app/
 - **Demo Video:** https://drive.google.com/file/d/1xe0m_N5jSsKapaeuqrTOUP2XW3Rtbwv6/view?usp=sharing
 
 ---
