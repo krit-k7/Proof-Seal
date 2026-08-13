@@ -201,7 +201,7 @@ export const Landing = () => {
         <Link to="/app" className="landing-brand">
           <span className="brand-mark">◖</span>
           <span className="landing-brand-text">
-            <span className="landing-brand-name">ShadowStamp</span>
+            <span className="landing-brand-name">ProofSeal</span>
             <span className="landing-brand-sub">Private proofs on Midnight</span>
           </span>
         </Link>
