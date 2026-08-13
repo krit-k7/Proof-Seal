@@ -60,7 +60,7 @@ export const App = () => {
         <div className="brand">
           <span className="brand-mark">◖</span>
           <div>
-            <h1>ShadowStamp</h1>
+            <h1>ProofSEAL</h1>
             <p>Private proof of existence on Midnight</p>
           </div>
         </div>
